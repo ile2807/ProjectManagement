@@ -115,6 +115,20 @@ a coach, and a champion.
 - `Yes, and`, then ask the client are they aware of the time constrictions or effect of this change?
 - Create policies and communicate them with the client in advance. `Example: Due to not having a support
 team standing by on weekend, we will not be doing deployments on Fridays`
+
+<div hidden>
+```
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+		
+@enduml
+```
+</div>
+
+![](firstDiagram.svg)
+
 - `Our focus is currently on` followed by the elephant in the room (the biggest most important feature)
   NOTE: when you give an implied promise that “not right now” means that you’ll seriously do something
   “later”, you need to be sure that later can actually happen.
