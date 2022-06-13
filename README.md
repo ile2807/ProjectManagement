@@ -71,7 +71,7 @@ Learn the following before the project kick off meeting
 ### Often used phrases by developers
 
 | What programers say  | What it means  |
-|---|---|---|---|---|
+|---|---|
 | I will be testing the `happy flow`  | We are only testing the bare minimum use case. Performing the test only with predefined data that is guaranteed to work  |
 | We will be performing a `cherry picking` on this release  | Due to unfinished tasks, we will have to pick only the features that work and merge only them. The end merge might not be stable |
 | This issue goes into the `delta scope`  | We will not be able to make this feature until go-live, but we make it sound like we have a plan |
