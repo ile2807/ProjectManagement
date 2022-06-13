@@ -47,7 +47,7 @@ Learn the following before the project kick off meeting
 - What system is expected to be used for ticketing/bug reporting?
 - Take notes, always
 
-### Often used phrases on meetings
+### Often used phrases on meetings by managers
 
 | What they say                                      | What it implies                                                  | What it really means                                 |
 |----------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
@@ -67,6 +67,22 @@ Learn the following before the project kick off meeting
 | I have to `double check` my email                  | I need to recall the topic we are discussing                     | I did not read your email                            |
 | I will send you the info right `after the meeting` | I will provide you with the info you are referring to            | I should have sent you the info before the meeting   |
 | It's on my `priority list`                         | I will do it ASAP                                                | I forgot to look into this                           |
+
+### Often used phrases by developers
+
+| What programers say  | What it means  |
+|---|---|---|---|---|
+| I will be testing the `happy flow`  | We are only testing the bare minimum use case. Performing the test only with predefined data that is guaranteed to work  |
+| We will be performing a `cherry picking` on this release  | Due to unfinished tasks, we will have to pick only the features that work and merge only them. The end merge might not be stable |
+| This issue goes into the `delta scope`  | We will not be able to make this feature until go-live, but we make it sound like we have a plan |
+| This feature is `a duck`  |  A feature added for no other reason than to draw management attention and be removed, thus avoiding unnecessary changes in other aspects of the product |
+| This feature is so `unicorny`  | A feature so early in its planning stages that it might as well be imaginary |
+| This bug is `a hydra`  | A bug that, when an attempt to fix is made, introduces three new bugs  |
+| We have a `mad girlfriend` feature  | There something obvously wrong with the application, however all the metrics say `it's fine`. Usualy triggered by a `race condition` |
+| I need some `rubber-ducking` |  I have a problem I can’t solve on my own, I need to talk with other engineers to solve it |
+| Our code has ninja comments  |  Also known as invisible comments, secret comments, or no comments |
+| This is spaghetti or baklava code  | This is very entangled code, or the code is layered too much (unnecessarily) |
+
 
 ## Managing a software development team
 
